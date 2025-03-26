@@ -28,4 +28,4 @@ git pull origin "$BRANCH" --rebase || {
 }
 
 # Push
-git push origin "$BRANCH" && echo "✅ Push abgeschlossen: $COMMIT_MESSAGE"
+git push origin "$BRANCH" -f && echo "✅ Push abgeschlossen: $COMMIT_MESSAGE"
