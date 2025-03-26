@@ -32,3 +32,5 @@ Ein automatisierter Screenshot-Scraper zur Überwachung rechtsextremer Webseiten
    ```bash
    user: admin
    pass: watchdog1337
+
+
