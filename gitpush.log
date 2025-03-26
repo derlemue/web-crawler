@@ -448,3 +448,5 @@ To github.com:derlemue/osint.git
 error: cannot pull with rebase: You have unstaged changes.
 error: Please commit or stash them.
 ⚠️ Pull mit Rebase fehlgeschlagen!
+🟢 Keine Änderungen – Push wird übersprungen.
+📤 Pushe Änderungen an master...
