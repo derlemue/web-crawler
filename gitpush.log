@@ -954,3 +954,12 @@ error: cannot pull with rebase: You have unstaged changes.
 error: Please commit or stash them.
 ⚠️ Pull mit Rebase fehlgeschlagen!
 📤 Pushe Änderungen an master...
+[master 1df1cd4] 🔄 Automatisches Update: 2025-03-26 22:48:25
+ 5 files changed, 7 insertions(+)
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Weilheim-Schongau_2025-03-26_22-48-12.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_2025-03-26_22-47-38.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_News_2025-03-26_22-47-57.png
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+⚠️ Pull mit Rebase fehlgeschlagen!
+📤 Pushe Änderungen an master...
