@@ -417,3 +417,34 @@ To github.com:derlemue/osint.git
    e4636979..44c3eede  main -> main
 ✅ Push abgeschlossen: 🔄 Automatisches Update: 2025-03-26 22:10:01
 📤 Pushe Änderungen an main...
+[master 4b0bbcf] 🔄 Automatisches Update: 2025-03-26 22:11:17
+ 30 files changed, 111 insertions(+), 8 deletions(-)
+ delete mode 100644 .gitpush.sh.swp
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_2025-03-26_22-07-18.png"
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_News_2025-03-26_22-07-30.png"
+ create mode 100644 "data/screenshots/AfD_Bayern_KV_Bad_T\303\266lz_2025-03-26_22-05-58.png"
+ create mode 100644 "data/screenshots/AfD_Bayern_KV_Bad_T\303\266lz_2025-03-26_22-10-52.png"
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Garmisch-Partenkirchen_2025-03-26_22-05-35.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Garmisch-Partenkirchen_2025-03-26_22-10-30.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Miesbach_2025-03-26_22-06-09.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Miesbach_2025-03-26_22-11-03.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Starnberg_2025-03-26_22-05-46.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Starnberg_2025-03-26_22-10-41.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Weilheim-Schongau_2025-03-26_22-05-24.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Weilheim-Schongau_2025-03-26_22-10-19.png
+ create mode 100644 data/screenshots/AfD_Miesbach_2025-03-26_22-06-35.png
+ create mode 100644 data/screenshots/AfD_Miesbach_News_2025-03-26_22-06-52.png
+ create mode 100644 data/screenshots/AfD_Oberbayern_2025-03-26_22-06-20.png
+ create mode 100644 data/screenshots/AfD_Oberbayern_2025-03-26_22-11-15.png
+ create mode 100644 data/screenshots/AfD_Starnberg_2025-03-26_22-07-42.png
+ create mode 100644 data/screenshots/AfD_Ulrich_Singer_2025-03-26_22-07-06.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_2025-03-26_22-04-58.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_2025-03-26_22-09-53.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_News_2025-03-26_22-05-13.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_News_2025-03-26_22-10-08.png
+ create mode 100644 data/screenshots/Facebook_Gerrit_Huy_2025-03-26_22-08-19.png
+ create mode 100644 data/screenshots/Instagram_Gerrit_Huy_2025-03-26_22-07-58.png
+ create mode 100644 data/screenshots/Twitter_Gerrit_Huy_2025-03-26_22-08-31.png
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+⚠️ Pull mit Rebase fehlgeschlagen!
