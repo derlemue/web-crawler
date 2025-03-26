@@ -2,7 +2,7 @@
 
 # === Konfiguration ===
 REPO_PATH="/root/stauffenberg_bot/"
-BRANCH="main"
+BRANCH="master"
 COMMIT_MESSAGE="🔄 Automatisches Update: $(date +'%Y-%m-%d %H:%M:%S')"
 
 cd "$REPO_PATH" || {
