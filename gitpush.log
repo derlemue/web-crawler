@@ -468,3 +468,11 @@ error: Please commit or stash them.
 ⚠️ Pull mit Rebase fehlgeschlagen!
 🟢 Keine Änderungen – Push wird übersprungen.
 📤 Pushe Änderungen an master...
+[master 8d603d3] 🔄 Automatisches Update: 2025-03-26 22:16:36
+ 3 files changed, 2 insertions(+)
+ create mode 100644 data/screenshots/Facebook_AfD_Miesbach_2025-03-26_22-14-19.png
+ create mode 100644 data/screenshots/Facebook_Ingo_Hahn_2025-03-26_22-14-40.png
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+⚠️ Pull mit Rebase fehlgeschlagen!
+📤 Pushe Änderungen an master...
