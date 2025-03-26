@@ -963,3 +963,8 @@ error: cannot pull with rebase: You have unstaged changes.
 error: Please commit or stash them.
 ⚠️ Pull mit Rebase fehlgeschlagen!
 📤 Pushe Änderungen an master...
+[master eb81e38] 🔄 Automatisches Update: 2025-03-26 22:48:49
+ 4 files changed, 9 insertions(+)
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Garmisch-Partenkirchen_2025-03-26_22-48-28.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Starnberg_2025-03-26_22-48-43.png
+⚠️ Pull mit Rebase fehlgeschlagen!
