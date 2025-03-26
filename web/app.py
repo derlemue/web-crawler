@@ -72,7 +72,7 @@ def run_scraper():
                 ["docker", "exec", cid, "python", "main.py"],
                 capture_output=True,
                 text=True,
-                timeout=300
+                timeout=480
             )
             if result.returncode == 0:
                 msg = "✅ Scraper wurde erfolgreich im Container ausgeführt."
