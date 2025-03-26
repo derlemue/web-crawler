@@ -293,3 +293,31 @@ To github.com:derlemue/osint.git
 Push abgeschlossen am Wed Mar 26 09:58:45 PM UTC 2025
 /root/stauffenberg_bot/gitpush.sh: line 8: cd: /root/stauffenbot/: No such file or directory
 /root/stauffenberg_bot/gitpush.sh: line 8: cd: /root/stauffenbot/: No such file or directory
+[master 852f668] Automatisches Update: 2025-03-26 21:59:40
+ 23 files changed, 313 insertions(+)
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_2025-03-26_21-57-18.png"
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_News_2025-03-26_21-57-31.png"
+ create mode 100644 "data/screenshots/AfD_Bayern_KV_Bad_T\303\266lz_2025-03-26_21-55-57.png"
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Garmisch-Partenkirchen_2025-03-26_21-55-35.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Miesbach_2025-03-26_21-56-08.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Starnberg_2025-03-26_21-55-46.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Weilheim-Schongau_2025-03-26_21-55-24.png
+ create mode 100644 data/screenshots/AfD_Miesbach_2025-03-26_21-56-34.png
+ create mode 100644 data/screenshots/AfD_Miesbach_News_2025-03-26_21-56-50.png
+ create mode 100644 data/screenshots/AfD_Oberbayern_2025-03-26_21-56-19.png
+ create mode 100644 data/screenshots/AfD_Starnberg_2025-03-26_21-57-43.png
+ create mode 100644 data/screenshots/AfD_Ulrich_Singer_2025-03-26_21-57-04.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_2025-03-26_21-54-57.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_News_2025-03-26_21-55-13.png
+ create mode 100644 data/screenshots/Facebook_AfD_Miesbach_2025-03-26_21-59-21.png
+ create mode 100644 data/screenshots/Facebook_Benjamin_Nolte_2025-03-26_21-59-00.png
+ create mode 100644 data/screenshots/Facebook_Gerrit_Huy_2025-03-26_21-58-20.png
+ create mode 100644 data/screenshots/Instagram_Gerrit_Huy_2025-03-26_21-57-59.png
+ create mode 100644 data/screenshots/Twitter_Gerrit_Huy_2025-03-26_21-58-33.png
+ create mode 100644 gitpush.log
+ create mode 100755 gitpush.sh
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+error: src refspec main does not match any
+error: failed to push some refs to 'github.com:derlemue/web-crawler.git'
+Push abgeschlossen am Wed Mar 26 09:59:41 PM UTC 2025
