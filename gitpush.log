@@ -450,3 +450,12 @@ error: Please commit or stash them.
 ⚠️ Pull mit Rebase fehlgeschlagen!
 🟢 Keine Änderungen – Push wird übersprungen.
 📤 Pushe Änderungen an master...
+[master 0f1909f] 🔄 Automatisches Update: 2025-03-26 22:13:33
+ 4 files changed, 2 insertions(+)
+ create mode 100644 data/screenshots/AfD_Starnberg_2025-03-26_22-12-41.png
+ create mode 100644 data/screenshots/Facebook_Gerrit_Huy_2025-03-26_22-13-19.png
+ create mode 100644 data/screenshots/Instagram_Gerrit_Huy_2025-03-26_22-12-58.png
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+⚠️ Pull mit Rebase fehlgeschlagen!
+📤 Pushe Änderungen an master...
