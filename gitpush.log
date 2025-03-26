@@ -970,3 +970,18 @@ error: Please commit or stash them.
 ⚠️ Pull mit Rebase fehlgeschlagen!
 🟢 Keine Änderungen – Push wird übersprungen.
 📤 Pushe Änderungen an master...
+[master 8c08b42] 🔄 Automatisches Update: 2025-03-26 22:53:02
+ 11 files changed, 2 insertions(+)
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_2025-03-26_22-50-40.png"
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_News_2025-03-26_22-50-58.png"
+ create mode 100644 data/screenshots/AfD_Miesbach_News_2025-03-26_22-50-05.png
+ create mode 100644 data/screenshots/AfD_Starnberg_2025-03-26_22-51-13.png
+ create mode 100644 data/screenshots/AfD_Ulrich_Singer_2025-03-26_22-50-23.png
+ create mode 100644 data/screenshots/Facebook_Benjamin_Nolte_2025-03-26_22-52-46.png
+ create mode 100644 data/screenshots/Facebook_Gerrit_Huy_2025-03-26_22-51-59.png
+ create mode 100644 data/screenshots/Instagram_Gerrit_Huy_2025-03-26_22-51-34.png
+ create mode 100644 data/screenshots/Twitter_Gerrit_Huy_2025-03-26_22-52-15.png
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+⚠️ Pull mit Rebase fehlgeschlagen!
+📤 Pushe Änderungen an master...
