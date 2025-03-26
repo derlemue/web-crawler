@@ -938,3 +938,12 @@ error: cannot pull with rebase: You have unstaged changes.
 error: Please commit or stash them.
 ⚠️ Pull mit Rebase fehlgeschlagen!
 📤 Pushe Änderungen an master...
+[master 255a58b] 🔄 Automatisches Update: 2025-03-26 22:46:10
+ 5 files changed, 2 insertions(+), 1 deletion(-)
+ create mode 100644 data/screenshots/Facebook_AfD_Miesbach_2025-03-26_22-45-55.png
+ create mode 100644 data/screenshots/Facebook_Benjamin_Nolte_2025-03-26_22-45-30.png
+ create mode 100644 data/screenshots/Twitter_Gerrit_Huy_2025-03-26_22-45-00.png
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+⚠️ Pull mit Rebase fehlgeschlagen!
+📤 Pushe Änderungen an master...
