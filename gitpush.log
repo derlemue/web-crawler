@@ -883,3 +883,48 @@ error: cannot pull with rebase: You have unstaged changes.
 error: Please commit or stash them.
 ⚠️ Pull mit Rebase fehlgeschlagen!
 📤 Pushe Änderungen an master...
+[master f4753a1] 🔄 Automatisches Update: 2025-03-26 22:43:14
+ 41 files changed, 1 insertion(+)
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_2025-03-26_22-35-07.png"
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_News_2025-03-26_22-35-25.png"
+ create mode 100644 "data/screenshots/AfD_Bayern_KV_Bad_T\303\266lz_2025-03-26_22-33-22.png"
+ create mode 100644 "data/screenshots/AfD_Bayern_KV_Bad_T\303\266lz_2025-03-26_22-41-40.png"
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Garmisch-Partenkirchen_2025-03-26_22-32-52.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Garmisch-Partenkirchen_2025-03-26_22-41-10.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Miesbach_2025-03-26_22-33-37.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Miesbach_2025-03-26_22-41-56.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Starnberg_2025-03-26_22-33-07.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Starnberg_2025-03-26_22-41-25.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Weilheim-Schongau_2025-03-26_22-32-37.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Weilheim-Schongau_2025-03-26_22-40-55.png
+ create mode 100644 data/screenshots/AfD_Miesbach_2025-03-26_22-34-10.png
+ create mode 100644 data/screenshots/AfD_Miesbach_2025-03-26_22-42-30.png
+ create mode 100644 data/screenshots/AfD_Miesbach_News_2025-03-26_22-34-32.png
+ create mode 100644 data/screenshots/AfD_Miesbach_News_2025-03-26_22-42-51.png
+ create mode 100644 data/screenshots/AfD_Oberbayern_2025-03-26_22-33-52.png
+ create mode 100644 data/screenshots/AfD_Oberbayern_2025-03-26_22-42-11.png
+ create mode 100644 data/screenshots/AfD_Starnberg_2025-03-26_22-35-40.png
+ create mode 100644 data/screenshots/AfD_Ulrich_Singer_2025-03-26_22-34-50.png
+ create mode 100644 data/screenshots/AfD_Ulrich_Singer_2025-03-26_22-43-09.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_2025-03-26_22-32-03.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_2025-03-26_22-40-20.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_News_2025-03-26_22-32-22.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_News_2025-03-26_22-40-40.png
+ create mode 100644 data/screenshots/Facebook_AfD_Miesbach_2025-03-26_22-30-41.png
+ create mode 100644 data/screenshots/Facebook_AfD_Miesbach_2025-03-26_22-30-48.png
+ create mode 100644 data/screenshots/Facebook_AfD_Miesbach_2025-03-26_22-37-33.png
+ create mode 100644 data/screenshots/Facebook_Benjamin_Nolte_2025-03-26_22-30-16.png
+ create mode 100644 data/screenshots/Facebook_Benjamin_Nolte_2025-03-26_22-30-23.png
+ create mode 100644 data/screenshots/Facebook_Benjamin_Nolte_2025-03-26_22-37-08.png
+ create mode 100644 data/screenshots/Facebook_Gerrit_Huy_2025-03-26_22-36-21.png
+ create mode 100644 data/screenshots/Facebook_Ingo_Hahn_2025-03-26_22-31-06.png
+ create mode 100644 data/screenshots/Facebook_Ingo_Hahn_2025-03-26_22-31-13.png
+ create mode 100644 data/screenshots/Facebook_Ingo_Hahn_2025-03-26_22-37-58.png
+ create mode 100644 data/screenshots/Instagram_Gerrit_Huy_2025-03-26_22-35-56.png
+ create mode 100644 data/screenshots/Twitter_Gerrit_Huy_2025-03-26_22-29-13.png
+ create mode 100644 data/screenshots/Twitter_Gerrit_Huy_2025-03-26_22-29-32.png
+ create mode 100644 data/screenshots/Twitter_Gerrit_Huy_2025-03-26_22-36-37.png
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+⚠️ Pull mit Rebase fehlgeschlagen!
+📤 Pushe Änderungen an master...
