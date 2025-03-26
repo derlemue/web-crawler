@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    margin: 2em;
+    background: #f2f2f2;
+}
+h1, h2 {
+    color: #333;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid #aaa;
+    padding: 0.5em;
+}
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+.error {
+    color: red;
+}
+input, button {
+    padding: 0.5em;
+    margin: 0.5em 0;
+}
+img {
+    border: 1px solid #999;
+    margin: 0.5em 0;
+}

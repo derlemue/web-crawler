@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+    <title>Historie: {{ name }}</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h2>📂 Screenshot-Historie für: {{ name }}</h2>
+    <a href="/dashboard">⬅ Zurück</a>
+    <ul>
+        {% for timestamp, path in history %}
+        <li>
+            <b>{{ timestamp }}</b><br>
+            <img src="/{{ path }}" width="600"><br><br>
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

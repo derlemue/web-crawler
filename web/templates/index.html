@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+    <title>Dashboard | h4ck3n-watchdog</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>📸 Watchdog Übersicht</h1>
+	{% if run_result %}
+	    <p><b>{{ run_result }}</b></p>
+	{% endif %}
+    <a href="/run">Jetzt ausführen</a> | <a href="/logout">Logout</a> |  <a href="/test-telegram">Test-Alarm senden</a>
+    <table>
+        <tr><th>Seite</th><th>Letzter Screenshot</th><th>Historie</th></tr>
+        {% for name, timestamp, path in snapshots %}
+        <tr>
+            <td>{{ name }}</td>
+            <td><a href="/{{ path }}">{{ timestamp }}</a></td>
+            <td><a href="/history/{{ name }}">Anzeigen</a></td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

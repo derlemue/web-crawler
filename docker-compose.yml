@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  scraper:
+    build: ./scraper
+    volumes:
+      - ./data:/app/data
+    environment:
+      - WATCHDOG_RUN_MODE=cron
+    depends_on:
+      - web
+
+  web:
+    build:
+      context: ./web
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./data:/app/data
+      - ./scraper/database.py:/app/database.py  # NEU
+      - /var/run/docker.sock:/var/run/docker.sock  # <--- NEU!
+    env_file:
+      - .env
+
+  scraper:
+    build: ./scraper
+    command: tail -f /dev/null  # dauerhaft laufen lassen
+    volumes:
+      - ./data:/app/data
