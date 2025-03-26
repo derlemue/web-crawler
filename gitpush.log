@@ -876,3 +876,9 @@ error: cannot pull with rebase: You have unstaged changes.
 error: Please commit or stash them.
 ⚠️ Pull mit Rebase fehlgeschlagen!
 📤 Pushe Änderungen an master...
+[master 2cdf489] 🔄 Automatisches Update: 2025-03-26 22:22:41
+ 3 files changed, 388 insertions(+)
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_2025-03-26_22-22-23.png"
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+⚠️ Pull mit Rebase fehlgeschlagen!
