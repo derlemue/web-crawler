@@ -22,4 +22,13 @@ Ein automatisierter Screenshot-Scraper zur Überwachung rechtsextremer Webseiten
 1. **Repo klonen**  
    ```bash
    git clone <lokal kopieren oder struktur übernehmen>
-   cd h4ck3n-watchdog
+   cd web-crawler
+
+---
+
+## 🕵️  Live Setup:
+
+**http://62.72.32.236:5000/**  
+   ```bash
+   user: admin
+   pass: watchdog1337
