@@ -14,7 +14,6 @@ watchlist_urls = {
     "AfD Bad Tölz": "https://www.afd-toelz.de/",
     "AfD Bad Tölz News": "https://www.afd-toelz.de/pressemitteilungen-des-afd-kreisverbandes-toelz/",
     "AfD Starnberg": "https://afd-starnberg.de/",
-    # Social Media
     "Instagram Gerrit Huy": "https://www.instagram.com/gerrithuy.afd/",
     "Facebook Gerrit Huy": "https://www.facebook.com/gerrithuy.afd/",
     "Twitter Gerrit Huy": "https://twitter.com/GerritHuy",

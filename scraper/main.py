@@ -44,9 +44,9 @@ def capture_page(name, url):
 
             # Scroll zwei Seiten
             page.evaluate("window.scrollBy(0, 1080)")
-            time.sleep(2)
+            time.sleep(4)
             page.evaluate("window.scrollBy(0, 1080)")
-            time.sleep(2)
+            time.sleep(4)
 
             # Screenshot speichern
             timestamp = datetime.utcnow().strftime("%Y-%m-%d_%H-%M-%S")
