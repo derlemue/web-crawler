@@ -1014,3 +1014,12 @@ To github.com:derlemue/web-crawler.git
    6764868..bcb968a  master -> master
 ✅ Push abgeschlossen: 🔄 Automatisches Update: 2025-03-26 23:08:18
 📤 Pushe Änderungen an master...
+[master 46303e5] 🔄 Automatisches Update: 2025-03-26 23:08:58
+ 5 files changed, 6 insertions(+)
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Weilheim-Schongau_2025-03-26_23-08-52.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_2025-03-26_23-08-18.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_News_2025-03-26_23-08-37.png
+To github.com:derlemue/web-crawler.git
+   bcb968a..46303e5  master -> master
+✅ Push abgeschlossen: 🔄 Automatisches Update: 2025-03-26 23:08:58
+📤 Pushe Änderungen an master...
