@@ -1,0 +1,35 @@
+[+] Starte Scraper im Container ffc8cd2ae00b (2025-03-27_19-00-23)
+
+[+] Capturing: Twitter Gerrit Huy -> https://nitter.space/GerritHuy
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[!] Telegram-Foto-Fehler: {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
+[+] Capturing: Twitter Benjamin Nolte -> https://nitter.space/BenjaminNolte3
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[!] Telegram-Foto-Fehler: {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
+[+] Capturing: Twitter Alexander Gauland -> https://nitter.space/ag_afd
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[+] Capturing: Twitter Ingo Hahn -> https://nitter.space/IngoHahnAfD
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[!] Telegram-Foto-Fehler: {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
+[+] Capturing: Twitter Alice Weidel -> https://nitter.space/Alice_Weidel
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[!] Telegram-Foto-Fehler: {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
+[+] Capturing: Twitter Björn Höcke -> https://nitter.space/BjoernHoecke
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[!] Telegram-Foto-Fehler: {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
+[+] Capturing: Twitter Beatrix von Storch -> https://xcancel.com/Beatrix_vStorch
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.

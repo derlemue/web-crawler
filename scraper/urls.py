@@ -1,10 +1,10 @@
 watchlist_urls = {
     # Webseiten & Strukturen
-    "Twitter Gerrit Huy": "https://nitter.net/GerritHuy",
-    "Twitter Benjamin Nolte": "https://nitter.net/BenjaminNolte3",
-    "Twitter Alexander Gauland": "https://nitter.net/ag_afd",
-    "Twitter Ingo Hahn": "https://nitter.net/IngoHahnAfD",
-    "Twitter Alice Weidel": "https://nitter.net/Alice_Weidel",
-    "Twitter Björn Höcke": "https://nitter.net/BjoernHoecke",
-    "Twitter Beatrix von Storch": "https://nitter.net/Beatrix_vStorch"
+    "Twitter Gerrit Huy": "https://nitter.space/GerritHuy",
+    "Twitter Benjamin Nolte": "https://nitter.space/BenjaminNolte3",
+    "Twitter Alexander Gauland": "https://nitter.space/ag_afd",
+    "Twitter Ingo Hahn": "https://nitter.space/IngoHahnAfD",
+    "Twitter Alice Weidel": "https://nitter.space/Alice_Weidel",
+    "Twitter Björn Höcke": "https://nitter.space/BjoernHoecke",
+    "Twitter Beatrix von Storch": "https://nitter.space/Beatrix_vStorch"
 }

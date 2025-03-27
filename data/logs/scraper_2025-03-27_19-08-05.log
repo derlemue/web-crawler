@@ -1,0 +1,35 @@
+[+] Starte Scraper im Container 070da7728f92 (2025-03-27_19-08-05)
+
+[+] Capturing: Twitter Gerrit Huy -> https://nitter.space/GerritHuy
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[❌] Fehler bei https://nitter.space/GerritHuy: Page.screenshot: Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+  -   - waiting for fonts to load...
+
+[+] Capturing: Twitter Benjamin Nolte -> https://nitter.space/BenjaminNolte3
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[+] Capturing: Twitter Alexander Gauland -> https://nitter.space/ag_afd
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[+] Capturing: Twitter Ingo Hahn -> https://nitter.space/IngoHahnAfD
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[+] Capturing: Twitter Alice Weidel -> https://nitter.space/Alice_Weidel
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[+] Capturing: Twitter Björn Höcke -> https://nitter.space/BjoernHoecke
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[+] Capturing: Twitter Beatrix von Storch -> https://nitter.space/Beatrix_vStorch
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
