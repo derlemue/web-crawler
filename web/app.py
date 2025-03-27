@@ -3,7 +3,10 @@ import os
 import bcrypt
 from dotenv import load_dotenv
 from database import get_latest_snapshots, get_history_for
+from database import init_db
 import subprocess
+
+init_db()
 
 app = Flask(__name__)
 app.secret_key = os.urandom(24)

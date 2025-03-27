@@ -4,7 +4,7 @@ import os
 DB_PATH = "data/watchdog.db"
 
 def init_db():
-    os.makedirs("data", exist_ok=True)
+#    os.makedirs("data", exist_ok=True)
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
     c.execute('''CREATE TABLE IF NOT EXISTS snapshots (
