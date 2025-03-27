@@ -63,7 +63,7 @@ def run_scraper():
             cwd="/app",
             capture_output=True,
             text=True,
-            timeout=900
+            timeout=1200
         )
         session["run_result"] = f"⏳ Scraper wurde im Hintergrund gestartet."
     except Exception as e:

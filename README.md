@@ -1,4 +1,4 @@
-# 🐾 h4ck3n-watchdog
+# 🐾 web-crawler
 
 Ein automatisierter Screenshot-Scraper zur Überwachung rechtsextremer Webseiten und Social-Media-Profile – inklusive Web-Interface, Datenbank und Screenshot-Historie.
 
