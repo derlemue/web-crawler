@@ -1059,3 +1059,42 @@ To github.com:derlemue/web-crawler.git
    416e6ae..5aa0cbb  master -> master
 ✅ Push abgeschlossen: 🔄 Automatisches Update: 2025-03-27 01:00:01
 📤 Pushe Änderungen an master...
+[master 1741717] 🔄 Automatisches Update: 2025-03-27 02:00:01
+ 35 files changed, 13 insertions(+)
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_2025-03-27_01-01-30.png"
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_2025-03-27_01-38-56.png"
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_News_2025-03-27_01-01-49.png"
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_News_2025-03-27_01-39-13.png"
+ create mode 100644 "data/screenshots/AfD_Bayern_KV_Bad_T\303\266lz_2025-03-27_01-37-12.png"
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Garmisch-Partenkirchen_2025-03-27_01-36-42.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Miesbach_2025-03-27_01-37-28.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Starnberg_2025-03-27_01-36-57.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Weilheim-Schongau_2025-03-27_01-36-27.png
+ create mode 100644 data/screenshots/AfD_Miesbach_2025-03-27_01-00-34.png
+ create mode 100644 data/screenshots/AfD_Miesbach_2025-03-27_01-38-02.png
+ create mode 100644 data/screenshots/AfD_Miesbach_News_2025-03-27_01-00-53.png
+ create mode 100644 data/screenshots/AfD_Miesbach_News_2025-03-27_01-38-20.png
+ create mode 100644 data/screenshots/AfD_Oberbayern_2025-03-27_01-00-14.png
+ create mode 100644 data/screenshots/AfD_Oberbayern_2025-03-27_01-37-43.png
+ create mode 100644 data/screenshots/AfD_Starnberg_2025-03-27_01-02-04.png
+ create mode 100644 data/screenshots/AfD_Starnberg_2025-03-27_01-39-29.png
+ create mode 100644 data/screenshots/AfD_Ulrich_Singer_2025-03-27_01-01-11.png
+ create mode 100644 data/screenshots/AfD_Ulrich_Singer_2025-03-27_01-38-38.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_2025-03-27_01-35-51.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_News_2025-03-27_01-36-12.png
+ create mode 100644 data/screenshots/Facebook_AfD_Miesbach_2025-03-27_01-03-58.png
+ create mode 100644 data/screenshots/Facebook_AfD_Miesbach_2025-03-27_01-41-28.png
+ create mode 100644 data/screenshots/Facebook_Benjamin_Nolte_2025-03-27_01-03-33.png
+ create mode 100644 data/screenshots/Facebook_Benjamin_Nolte_2025-03-27_01-41-03.png
+ create mode 100644 data/screenshots/Facebook_Gerrit_Huy_2025-03-27_01-02-46.png
+ create mode 100644 data/screenshots/Facebook_Gerrit_Huy_2025-03-27_01-40-15.png
+ create mode 100644 data/screenshots/Facebook_Ingo_Hahn_2025-03-27_01-04-23.png
+ create mode 100644 data/screenshots/Facebook_Ingo_Hahn_2025-03-27_01-41-53.png
+ create mode 100644 data/screenshots/Instagram_Gerrit_Huy_2025-03-27_01-02-21.png
+ create mode 100644 data/screenshots/Instagram_Gerrit_Huy_2025-03-27_01-39-50.png
+ create mode 100644 data/screenshots/Twitter_Gerrit_Huy_2025-03-27_01-03-02.png
+ create mode 100644 data/screenshots/Twitter_Gerrit_Huy_2025-03-27_01-40-31.png
+To github.com:derlemue/web-crawler.git
+   5aa0cbb..1741717  master -> master
+✅ Push abgeschlossen: 🔄 Automatisches Update: 2025-03-27 02:00:01
+📤 Pushe Änderungen an master...
