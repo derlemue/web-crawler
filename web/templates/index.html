@@ -11,6 +11,10 @@
 	{% endif %}
     <p>
     <a href="/run" class="button">🏃 Jetzt ausführen</a> <a href="/logout" class="button">👋 Logout</a> <a href="/test-telegram" class="button">🧪 Test-Alarm senden</a>
+    <div style="position: absolute; top: 10px; right: 10px; padding: 5px 10px; border-radius: 6px;
+                background-color: {{ 'green' if telegram_ok else 'red' }}; color: white;">
+      Telegram: {{ '✅ aktiv' if telegram_ok else '❌ fehlt' }}
+    </div>
     </p>
     <table>
         <tr><th>Seite</th><th>Letzter Screenshot</th><th>Historie</th></tr>

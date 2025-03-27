@@ -34,7 +34,8 @@ def dashboard():
         return redirect(url_for("login"))
     snapshots = get_latest_snapshots()
     msg = session.pop("run_result", None)
-    return render_template("index.html", snapshots=snapshots, run_result=msg)
+    telegram_ok = bool(os.getenv("TELEGRAM_BOT_TOKEN") and os.getenv("TELEGRAM_CHAT_ID"))
+    return render_template("index.html", snapshots=snapshots, telegram_ok=telegram_ok, run_result=msg)
 
 @app.route("/history/<name>")
 def history(name):
