@@ -29,3 +29,5 @@ git commit -m "$COMMIT_MESSAGE"
 
 # Push
 git push origin "$BRANCH" -f && echo "✅ Push abgeschlossen: $COMMIT_MESSAGE"
+
+
