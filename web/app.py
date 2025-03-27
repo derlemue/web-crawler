@@ -13,8 +13,14 @@ app.secret_key = os.urandom(24)
 
 load_dotenv()
 USERNAME = os.getenv("USERNAME")
-PASSWORD_HASH = os.getenv("PASSWORD_HASH").encode()  # Wichtig: encode!
+import sys
 
+raw_hash = os.getenv("PASSWORD_HASH")
+if not raw_hash:
+    print("❌ Fehler: PASSWORD_HASH ist nicht gesetzt (Umgebungsvariable).", file=sys.stderr)
+    exit(1)
+
+PASSWORD_HASH = raw_hash.encode()  # encode für bcrypt-Vergleich
 @app.route("/", methods=["GET", "POST"])
 def login():
     if request.method == "POST":

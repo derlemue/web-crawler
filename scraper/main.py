@@ -31,6 +31,12 @@ def find_previous_screenshot(name: str):
         return files[1]
     return None
 
+def images_are_significantly_different(img1, img2, threshold=20):
+    diff = ImageChops.difference(img1, img2)
+    stat = ImageStat.Stat(diff)
+    mean_diff = sum(stat.mean) / len(stat.mean)
+    return mean_diff > threshold
+
 def capture_page(name: str, url: str):
     print(f"[+] Capturing: {name} -> {url}")
     with sync_playwright() as p:
