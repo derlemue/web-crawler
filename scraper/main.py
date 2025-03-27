@@ -3,6 +3,7 @@ from datetime import datetime
 from database import init_db, save_snapshot
 from urls import watchlist_urls
 from telegram_alert import send_telegram_image
+from popup_handler import dismiss_facebook_popups
 from PIL import ImageChops, Image
 import os
 import time
@@ -31,6 +32,7 @@ def capture_page(name, url):
         try:
             page.goto(url, timeout=60000)
             time.sleep(5)
+            dismiss_facebook_popups(page)
 
             if is_facebook(url):
                 try:

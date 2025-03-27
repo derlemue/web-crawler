@@ -9,7 +9,9 @@
 	{% if run_result %}
 	    <p><b>{{ run_result }}</b></p>
 	{% endif %}
-    <a href="/run">Jetzt ausführen</a> | <a href="/logout">Logout</a> |  <a href="/test-telegram">Test-Alarm senden</a>
+    <p>
+    <a href="/run" class="button">🏃 Jetzt ausführen</a> <a href="/logout" class="button">👋 Logout</a> <a href="/test-telegram" class="button">🧪 Test-Alarm senden</a>
+    </p>
     <table>
         <tr><th>Seite</th><th>Letzter Screenshot</th><th>Historie</th></tr>
         {% for name, timestamp, path in snapshots %}
@@ -20,5 +22,8 @@
         </tr>
         {% endfor %}
     </table>
+    <p>
+    <a href="/logs" class="button">📜 Logs einsehen</a>
+    </p>
 </body>
 </html>

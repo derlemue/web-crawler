@@ -1,4 +1,4 @@
-[+] Starte Scraper im Container cb4fe23bb144 (2025-03-27_13-23-06)
+[+] Starte Scraper im Container cb4fe23bb144 (2025-03-27_13-32-34)
 
 [+] Capturing: AfD Weilheim-Schongau -> https://www.afd-weilheim-schongau.de/
 [!] Telegram-Konfiguration fehlt.
@@ -15,7 +15,7 @@
 [+] Capturing: AfD Bayern KV Miesbach -> https://afdbayern.de/kreis-ortsverbaende/oberbayern/oberbayern-sued/
 [!] Telegram-Konfiguration fehlt.
 [+] Capturing: AfD Oberbayern -> https://www.afd-oberbayern.de/
-[i] Keine Änderung bei AfD Oberbayern
+[!] Telegram-Konfiguration fehlt.
 [+] Capturing: AfD Miesbach -> https://www.afd-miesbach.de/
 [!] Telegram-Konfiguration fehlt.
 [+] Capturing: AfD Miesbach News -> https://www.afd-miesbach.de/corona-fakten-medien-2/
