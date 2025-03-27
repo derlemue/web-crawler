@@ -57,31 +57,17 @@ def run_scraper():
         return redirect(url_for("login"))
 
     try:
-        # Container-ID des laufenden scraper holen
-        get_id = subprocess.run(
-            ["docker", "ps", "-qf", "name=_scraper"],
+        result = subprocess.run(
+            ["python3", "run_async.py"],
+            cwd="/app",
             capture_output=True,
-            text=True
+            text=True,
+            timeout=10
         )
-        cid = get_id.stdout.strip()
-
-        if not cid:
-            msg = "❌ Scraper-Container läuft nicht."
-        else:
-            result = subprocess.run(
-                ["docker", "exec", cid, "python", "main.py"],
-                capture_output=True,
-                text=True,
-                timeout=600
-            )
-            if result.returncode == 0:
-                msg = "✅ Scraper wurde erfolgreich im Container ausgeführt."
-            else:
-                msg = f"❌ Fehler beim Ausführen im Container:\n{result.stderr}"
+        session["run_result"] = f"⏳ Scraper wurde im Hintergrund gestartet."
     except Exception as e:
-        msg = f"❌ Ausnahme beim Ausführen des Scrapers:\n{str(e)}"
+        session["run_result"] = f"❌ Fehler beim Start des Scrapers:\n{e}"
 
-    session["run_result"] = msg
     return redirect(url_for("dashboard"))
 
 @app.route("/logout")
@@ -109,6 +95,32 @@ def test_telegram():
         session["run_result"] = f"❌ Telegram-Test fehlgeschlagen:\n{e}"
 
     return redirect(url_for("dashboard"))
+
+@app.route("/logs")
+def show_logs():
+    if "user" not in session:
+        return redirect(url_for("login"))
+
+    log_dir = "data/logs"
+    logs = []
+    selected = request.args.get("file")
+
+    try:
+        logs = sorted([
+            f for f in os.listdir(log_dir) if f.endswith(".log")
+        ], reverse=True)
+    except Exception as e:
+        logs = [f"[Fehler beim Lesen: {e}]"]
+
+    content = ""
+    if selected:
+        try:
+            with open(os.path.join(log_dir, selected), "r") as f:
+                content = f.read()
+        except Exception as e:
+            content = f"[Fehler beim Öffnen: {e}]"
+
+    return render_template("logs.html", logs=logs, content=content, selected=selected)
 
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0")

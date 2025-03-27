@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Scraper Logs</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>📜 Scraper-Logs</h1>
+
+    <form method="get">
+        <label for="file">Logdatei auswählen:</label>
+        <select name="file" onchange="this.form.submit()">
+            <option value="">-- Bitte auswählen --</option>
+            {% for log in logs %}
+                <option value="{{ log }}" {% if log == selected %}selected{% endif %}>
+                    {{ log }}
+                </option>
+            {% endfor %}
+        </select>
+    </form>
+
+    {% if content %}
+    <hr>
+    <pre style="background:#111;color:#0f0;padding:1em;border-radius:8px;max-height:500px;overflow:auto;">
+{{ content }}
+    </pre>
+    {% endif %}
+
+    <p><a href="/dashboard">🔙 Zurück</a></p>
+</body>
+</html>

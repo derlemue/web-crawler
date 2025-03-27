@@ -1158,3 +1158,28 @@ To github.com:derlemue/web-crawler.git
    0641ee2..c61e1a3  master -> master
 ✅ Push abgeschlossen: 🔄 Automatisches Update: 2025-03-27 12:00:01
 📤 Pushe Änderungen an master...
+[master 22c00dc] 🔄 Automatisches Update: 2025-03-27 13:00:01
+ 22 files changed, 6 insertions(+)
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_2025-03-27_12-39-39.png"
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_News_2025-03-27_12-39-57.png"
+ create mode 100644 "data/screenshots/AfD_Bayern_KV_Bad_T\303\266lz_2025-03-27_12-37-51.png"
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Garmisch-Partenkirchen_2025-03-27_12-37-21.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Miesbach_2025-03-27_12-38-06.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Starnberg_2025-03-27_12-37-36.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Weilheim-Schongau_2025-03-27_12-37-05.png
+ create mode 100644 data/screenshots/AfD_Miesbach_2025-03-27_12-38-41.png
+ create mode 100644 data/screenshots/AfD_Miesbach_News_2025-03-27_12-39-03.png
+ create mode 100644 data/screenshots/AfD_Oberbayern_2025-03-27_12-38-22.png
+ create mode 100644 data/screenshots/AfD_Starnberg_2025-03-27_12-40-13.png
+ create mode 100644 data/screenshots/AfD_Ulrich_Singer_2025-03-27_12-39-21.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_2025-03-27_12-36-30.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_News_2025-03-27_12-36-50.png
+ create mode 100644 data/screenshots/Facebook_AfD_Miesbach_2025-03-27_12-42-20.png
+ create mode 100644 data/screenshots/Facebook_Benjamin_Nolte_2025-03-27_12-41-54.png
+ create mode 100644 data/screenshots/Facebook_Gerrit_Huy_2025-03-27_12-41-00.png
+ create mode 100644 data/screenshots/Facebook_Ingo_Hahn_2025-03-27_12-42-45.png
+ create mode 100644 data/screenshots/Instagram_Gerrit_Huy_2025-03-27_12-40-35.png
+ create mode 100644 data/screenshots/Twitter_Gerrit_Huy_2025-03-27_12-41-17.png
+To github.com:derlemue/web-crawler.git
+   c61e1a3..22c00dc  master -> master
+✅ Push abgeschlossen: 🔄 Automatisches Update: 2025-03-27 13:00:01
