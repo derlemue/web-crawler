@@ -1,0 +1,9 @@
+[+] Starte Scraper im Container f965eed87d56 (2025-03-27_19-47-11)
+
+Traceback (most recent call last):
+  File "/app/main.py", line 12, in <module>
+    from urls import watchlist_urls
+  File "/app/urls.py", line 4
+    "Twitter AfD Bundestag": ": "https://nitter.space/AfDimBundestag",
+                                                                    ^
+SyntaxError: unterminated string literal (detected at line 4)
