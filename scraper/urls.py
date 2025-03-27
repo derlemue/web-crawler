@@ -11,3 +11,4 @@ watchlist_urls = {
     "Twitter Beatrix von Storch": "https://nitter.space/Beatrix_vStorch",
     "Twitter Tino Chrupalla": "https://nitter.space/Tino_Chrupalla"
 }
+
