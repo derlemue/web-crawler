@@ -1,10 +1,9 @@
-[+] Starte Scraper im Container 712d57a2be66 (2025-03-27_19-55-05)
+[+] Starte Scraper im Container 712d57a2be66 (2025-03-27_20-27-08)
 
 [+] Capturing: Twitter AfD -> https://nitter.space/AfD
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
 [~] Popup-Handling abgeschlossen.
-[i] Keine Änderung bei Twitter AfD, Screenshot verworfen.
 [+] Capturing: Twitter AfD Bundestag -> https://nitter.space/AfDimBundestag
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
@@ -18,7 +17,6 @@
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
 [~] Popup-Handling abgeschlossen.
-[i] Keine Änderung bei Twitter Benjamin Nolte, Screenshot verworfen.
 [+] Capturing: Twitter Alexander Gauland -> https://nitter.space/ag_afd
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
@@ -45,4 +43,3 @@
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
 [~] Popup-Handling abgeschlossen.
-[i] Keine Änderung bei Twitter Tino Chrupalla, Screenshot verworfen.

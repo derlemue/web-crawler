@@ -21,7 +21,7 @@ Ein automatisierter Screenshot-Scraper zur Überwachung rechtsextremer Webseiten
 
 1. **Repo klonen**  
    ```bash
-   git clone <lokal kopieren oder struktur übernehmen>
+   git clone https://github.com/derlemue/web-crawler.git
    cd web-crawler
 
 ---
