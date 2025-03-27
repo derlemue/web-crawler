@@ -30,7 +30,7 @@ def capture_page(name, url):
         )
         page = context.new_page()
         try:
-            page.goto(url, timeout=60000)
+            page.goto(url, timeout=90000)
             time.sleep(5)
             dismiss_facebook_popups(page)
 

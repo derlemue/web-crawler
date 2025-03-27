@@ -1,4 +1,4 @@
-[+] Starte Scraper im Container 0f03a3a5195c (2025-03-27_13-56-29)
+[+] Starte Scraper im Container 0159152c6250 (2025-03-27_14-16-19)
 
 [+] Capturing: AfD Weilheim-Schongau -> https://www.afd-weilheim-schongau.de/
 [~] Versuche Facebook-Popups zu entfernen ...
@@ -14,7 +14,7 @@
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
 [~] Popup-Handling abgeschlossen.
-[!] Telegram-Konfiguration fehlt.
+[i] Keine Änderung bei AfD Bayern KV Weilheim-Schongau
 [+] Capturing: AfD Bayern KV Garmisch-Partenkirchen -> https://afdbayern.de/kreis-ortsverbaende/oberbayern/garmisch-partenkirchen/
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
@@ -24,7 +24,7 @@
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
 [~] Popup-Handling abgeschlossen.
-[!] Telegram-Konfiguration fehlt.
+[i] Keine Änderung bei AfD Bayern KV Starnberg
 [+] Capturing: AfD Bayern KV Bad Tölz -> https://afdbayern.de/kreis-ortsverbaende/oberbayern/badtoelz/
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
@@ -34,12 +34,12 @@
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
 [~] Popup-Handling abgeschlossen.
-[i] Keine Änderung bei AfD Bayern KV Miesbach
+[!] Telegram-Konfiguration fehlt.
 [+] Capturing: AfD Oberbayern -> https://www.afd-oberbayern.de/
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
 [~] Popup-Handling abgeschlossen.
-[!] Telegram-Konfiguration fehlt.
+[i] Keine Änderung bei AfD Oberbayern
 [+] Capturing: AfD Miesbach -> https://www.afd-miesbach.de/
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
@@ -54,7 +54,7 @@
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
 [~] Popup-Handling abgeschlossen.
-[i] Keine Änderung bei AfD Ulrich Singer
+[!] Telegram-Konfiguration fehlt.
 [+] Capturing: AfD Bad Tölz -> https://www.afd-toelz.de/
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
@@ -84,7 +84,7 @@
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
 [~] Popup-Handling abgeschlossen.
-[!] Telegram-Konfiguration fehlt.
+[i] Keine Änderung bei Twitter Gerrit Huy
 [+] Capturing: Facebook Benjamin Nolte -> https://www.facebook.com/benjamin.nolte.afd/
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt

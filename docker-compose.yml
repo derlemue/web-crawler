@@ -21,7 +21,7 @@ services:
       - ./scraper/database.py:/app/database.py  # NEU
       - /var/run/docker.sock:/var/run/docker.sock  # <--- NEU!
     env_file:
-      - .env
+      - ./web/.env
 
   scraper:
     build: ./scraper
