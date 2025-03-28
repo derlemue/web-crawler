@@ -31,11 +31,11 @@ def find_previous_screenshot(name: str):
         return files[1]
     return None
 
-def images_are_significantly_different(img1, img2, threshold=80):
-    diff = ImageChops.difference(img1, img2)
-    stat = ImageStat.Stat(diff)
-    mean_diff = sum(stat.mean) / len(stat.mean)
-    return mean_diff > threshold
+#def images_are_significantly_different(img1, img2, threshold=80):
+#    diff = ImageChops.difference(img1, img2)
+#    stat = ImageStat.Stat(diff)
+#    mean_diff = sum(stat.mean) / len(stat.mean)
+#    return mean_diff > threshold
 
 def capture_page(name: str, url: str):
     print(f"[+] Capturing: {name} -> {url}")
@@ -72,15 +72,26 @@ def capture_page(name: str, url: str):
             # Vergleich mit vorherigem Screenshot
             last_path = find_previous_screenshot(name)
             changed = True
+            threshold = 20  # Sensitivität (je höher, desto unempfindlicher)
             if last_path and last_path.exists():
                 try:
                     img1 = Image.open(screenshot_path)
                     img2 = Image.open(last_path)
+
+                    # Differenzbild berechnen
                     diff = ImageChops.difference(img1, img2)
-                    changed = diff.getbbox() is not None
+                    stat = ImageStat.Stat(diff)
+                    mean_diff = sum(stat.mean) / len(stat.mean)
+
+                    if mean_diff < threshold:
+                        changed = False
+                        print(f"[i] Unterschied zu gering ({mean_diff:.2f} < {threshold}) – kein Alert.")
+                    else:
+                        changed = True
+                        print(f"[!] Änderung erkannt ({mean_diff:.2f} >= {threshold})")
                 except Exception as e:
                     print(f"[!] Bildvergleich fehlgeschlagen: {e}")
-                    changed = True
+                    changed = True  # sicherheitshalber Alert
 
             if changed:
                 save_snapshot(name, url, timestamp, str(screenshot_path))
