@@ -1630,3 +1630,14 @@ To github.com:derlemue/web-crawler.git
    48aeb93..a3ab9b5  master -> master
 ✅ Push abgeschlossen: 🔄 Automatisches Update: 2025-03-27 23:40:02
 📤 Pushe Änderungen an master...
+[master 8dbf356] 🔄 Automatisches Update: 2025-03-28 00:00:01
+ 8 files changed, 56 insertions(+)
+ create mode 100644 data/screenshots/Twitter_AfD_2025-03-27_23-40-35.png
+ create mode 100644 data/screenshots/Twitter_AfD_Bundestag_2025-03-27_23-41-09.png
+ create mode 100644 data/screenshots/Twitter_Alice_Weidel_2025-03-27_23-43-58.png
+ create mode 100644 data/screenshots/Twitter_Benjamin_Nolte_2025-03-27_23-42-17.png
+ create mode 100644 data/screenshots/Twitter_Tino_Chrupalla_2025-03-27_23-45-39.png
+To github.com:derlemue/web-crawler.git
+   a3ab9b5..8dbf356  master -> master
+✅ Push abgeschlossen: 🔄 Automatisches Update: 2025-03-28 00:00:01
+📤 Pushe Änderungen an master...
