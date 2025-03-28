@@ -35,7 +35,7 @@ def capture_page(name: str, url: str):
     print(f"[+] Capturing: {name} -> {url}")
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        context = browser.new_context(viewport={"width": 1920, "height": 1080})
+        context = browser.new_context(viewport={"width": 1920, "height": 1800})
         page = context.new_page()
 
         try:
@@ -54,7 +54,7 @@ def capture_page(name: str, url: str):
 
             # Scrollen für dynamischen Content
             for _ in range(2):
-                page.evaluate("window.scrollBy(0, 1080)")
+                page.evaluate("window.scrollBy(0, 720)")
                 time.sleep(3)
 
             # Screenshot speichern
