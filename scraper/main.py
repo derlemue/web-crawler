@@ -31,7 +31,7 @@ def find_previous_screenshot(name: str):
         return files[1]
     return None
 
-def images_are_significantly_different(img1, img2, threshold=60):
+def images_are_significantly_different(img1, img2, threshold=80):
     diff = ImageChops.difference(img1, img2)
     stat = ImageStat.Stat(diff)
     mean_diff = sum(stat.mean) / len(stat.mean)
