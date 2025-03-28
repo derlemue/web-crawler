@@ -1,2 +1,52 @@
 [+] Starte Scraper im Container f22014cf1c47 (2025-03-28_20-30-47)
 
+[+] Capturing: Twitter AfD -> https://nitter.space/AfD
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[!] Bildvergleich fehlgeschlagen: name 'ImageStat' is not defined
+[+] Capturing: Twitter AfD Bundestag -> https://nitter.space/AfDimBundestag
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[!] Bildvergleich fehlgeschlagen: name 'ImageStat' is not defined
+[+] Capturing: Twitter Gerrit Huy -> https://nitter.space/GerritHuy
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[!] Bildvergleich fehlgeschlagen: name 'ImageStat' is not defined
+[+] Capturing: Twitter Benjamin Nolte -> https://nitter.space/BenjaminNolte3
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[!] Bildvergleich fehlgeschlagen: name 'ImageStat' is not defined
+[+] Capturing: Twitter Alexander Gauland -> https://nitter.space/ag_afd
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[!] Bildvergleich fehlgeschlagen: name 'ImageStat' is not defined
+[+] Capturing: Twitter Ingo Hahn -> https://nitter.space/IngoHahnAfD
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[!] Bildvergleich fehlgeschlagen: name 'ImageStat' is not defined
+[+] Capturing: Twitter Alice Weidel -> https://nitter.space/Alice_Weidel
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[!] Bildvergleich fehlgeschlagen: name 'ImageStat' is not defined
+[+] Capturing: Twitter Björn Höcke -> https://nitter.space/BjoernHoecke
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[!] Bildvergleich fehlgeschlagen: name 'ImageStat' is not defined
+[+] Capturing: Twitter Beatrix von Storch -> https://nitter.space/Beatrix_vStorch
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[!] Bildvergleich fehlgeschlagen: name 'ImageStat' is not defined
+[+] Capturing: Twitter Tino Chrupalla -> https://nitter.space/Tino_Chrupalla
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[!] Bildvergleich fehlgeschlagen: name 'ImageStat' is not defined

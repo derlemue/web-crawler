@@ -3,7 +3,7 @@ import time
 from datetime import datetime
 from pathlib import Path
 from dotenv import load_dotenv
-from PIL import Image, ImageChops
+from PIL import Image, ImageChops, ImageStat
 from playwright.sync_api import sync_playwright
 
 from database import init_db, save_snapshot
