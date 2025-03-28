@@ -15,6 +15,9 @@ watchlist_urls = {
     "AfD Bad Tölz News": "https://www.afd-toelz.de/pressemitteilungen-des-afd-kreisverbandes-toelz/",
     "AfD Starnberg": "https://afd-starnberg.de/",
     # Social Media
+    "Twitter Pauline Pezold": "https://nitter.space/PaulinePezold",
+    "Twitter Politico Europe": "https://nitter.space/POLITICOEurope",
+    "Twitter Marie-Therese Kaiser": "https://nitter.space/hallofraukaiser",
     "Twitter AfD": "https://nitter.space/AfD",
     "Twitter AfD Bundestag": "https://nitter.space/AfDimBundestag",
     "Twitter Gerrit Huy": "https://nitter.space/GerritHuy",
