@@ -4,7 +4,7 @@
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 BASE_DIR="$(dirname "$SCRIPT_DIR")"
 
-DB_PATH="$BASE_DIR/data/database.db"
+DB_PATH="$BASE_DIR/data/watchdog.db"
 SCREENSHOT_DIR="$BASE_DIR/data/screenshots"
 LOG_DIR="$BASE_DIR/data/logs"
 
