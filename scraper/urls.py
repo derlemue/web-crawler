@@ -9,6 +9,11 @@ watchlist_urls = {
     "Twitter Alice Weidel": "https://nitter.space/Alice_Weidel",
     "Twitter Björn Höcke": "https://nitter.space/BjoernHoecke",
     "Twitter Beatrix von Storch": "https://nitter.space/Beatrix_vStorch",
-    "Twitter Tino Chrupalla": "https://nitter.space/Tino_Chrupalla"
+    "Twitter Tino Chrupalla": "https://nitter.space/Tino_Chrupalla",
+    "Twitter Hannes Gnauck": "https://nitter.space/Hannes_Gnauck",
+    "Twitter Sven Kachelmann": "https://nitter.space/SvenKachelmann",
+    "Twitter Tomasz Frölich": "https://nitter.space/TomaszFroelich",
+    "Twitter Franz Schmid": "https://nitter.space/FranzSchmid_AfD",
+    "Twitter Dirk Brandes": "https://nitter.space/DirkBrandes74",
+    "Twitter Klaus Esser": "https://nitter.space/klausesser_nrw"
 }
-
