@@ -13,7 +13,7 @@ Ein automatisierter Screenshot-Scraper zur Überwachung rechtsextremer Webseiten
 - **SQLite-Datenbank** mit Screenshot-Metadaten
 - Webinterface auf **Port 5000** mit Login
 - Pro Seite: Screenshot-Historie einsehbar
-- Automatischer Cronjob alle **10 Minuten**
+- Automatischer Cronjob alle **5 Minuten**
 - Automatischer Git Push alle **4 Stunden**
 
 ---
