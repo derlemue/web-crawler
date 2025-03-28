@@ -4,6 +4,10 @@ Ein automatisierter Screenshot-Scraper zur Überwachung rechtsextremer Webseiten
 
 ---
 
+![web-crawler screenshot](web-crawler.png?raw=true "Optional Title")
+
+---
+
 ## ⚙️ Features
 
 - Unterstützung von **Facebook**, **Instagram**, **Webseiten**
