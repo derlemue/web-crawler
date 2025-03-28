@@ -4,7 +4,7 @@ Ein automatisierter Screenshot-Scraper zur Überwachung rechtsextremer Webseiten
 
 ---
 
-![web-crawler screenshot](web-crawler.png?raw=true "Optional Title")
+![web-crawler screenshot](https://github.com/derlemue/web-crawler/blob/master/web-crawler.PNG "Screenshot v1.9.x)
 
 ---
 
