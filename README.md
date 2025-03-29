@@ -24,10 +24,21 @@ Ein automatisierter Screenshot-Scraper zur Überwachung rechtsextremer Webseiten
 
 ## 🚀 Setup (Docker)
 
-1. **Repo klonen**  
+1. **Repo klonen**
    ```bash
    git clone https://github.com/derlemue/web-crawler.git
    cd web-crawler
+
+---
+
+## 🚀 Update (Docker)
+
+1. **Repo klonen**  
+   ```bash
+   cd web-crawler
+   git pull
+   docker-compose down --volumes && docker-compose up -d --build --remove-orphans
+
 
 ---
 

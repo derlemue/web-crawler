@@ -1969,3 +1969,20 @@ To github.com:derlemue/web-crawler.git
    dba7347..3ccb688  master -> master
 ✅ Push abgeschlossen: 🔄 Automatisches Update: 2025-03-28 23:00:01
 📤 Pushe Änderungen an master...
+[master 3538385] 🔄 Automatisches Update: 2025-03-29 00:00:01
+ 14 files changed, 3 insertions(+)
+ create mode 100644 .README.md.swp
+ create mode 100644 data/logs/scraper_2025-03-28_23-52-17.log
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_2025-03-28_23-59-31.png"
+ create mode 100644 "data/screenshots/AfD_Bayern_KV_Bad_T\303\266lz_2025-03-28_23-55-52.png"
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Garmisch-Partenkirchen_2025-03-28_23-54-43.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Starnberg_2025-03-28_23-55-17.png
+ create mode 100644 data/screenshots/AfD_Bayern_KV_Weilheim-Schongau_2025-03-28_23-54-08.png
+ create mode 100644 data/screenshots/AfD_Miesbach_2025-03-28_23-57-39.png
+ create mode 100644 data/screenshots/AfD_Oberbayern_2025-03-28_23-57-00.png
+ create mode 100644 data/screenshots/AfD_Ulrich_Singer_2025-03-28_23-51-22.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_2025-03-28_23-52-56.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_News_2025-03-28_23-53-34.png
+To github.com:derlemue/web-crawler.git
+   dc87c2f..3538385  master -> master
+✅ Push abgeschlossen: 🔄 Automatisches Update: 2025-03-29 00:00:01
