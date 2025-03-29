@@ -54,14 +54,14 @@ def capture_page(name: str, url: str):
 
             # Scrollen für dynamischen Content
             for _ in range(2):
-                page.evaluate("window.scrollBy(0, 1080)")
+                page.evaluate("window.scrollBy(0, 0)")
                 time.sleep(3)
 
             # Screenshot speichern
             timestamp = datetime.utcnow().strftime("%Y-%m-%d_%H-%M-%S")
             safe_name = safe_filename(name)
             screenshot_path = DATA_DIR / f"{safe_name}_{timestamp}.png"
-            page.screenshot(path=screenshot_path, clip={"x": 0, "y": 0, "width": 1920, "height": 2160})
+            page.screenshot(path=screenshot_path, clip={"x": 0, "y": 0, "width": 1920, "height": 8640})
 
             # Vergleich mit vorherigem Screenshot
             last_path = find_previous_screenshot(name)
