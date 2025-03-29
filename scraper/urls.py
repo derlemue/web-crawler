@@ -33,5 +33,6 @@ watchlist_urls = {
     "Twitter Tomasz Frölich": "https://nitter.space/TomaszFroelich",
     "Twitter Franz Schmid": "https://nitter.space/FranzSchmid_AfD",
     "Twitter Dirk Brandes": "https://nitter.space/DirkBrandes74",
-    "Twitter Klaus Esser": "https://nitter.space/klausesser_nrw"
+    "Twitter Klaus Esser": "https://nitter.space/klausesser_nrw",
+    "Twitter Julia Klöckner": "https://nitter.space/JuliaKloeckner"
 }
