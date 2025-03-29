@@ -54,7 +54,7 @@ def capture_page(name: str, url: str):
 
             # Scrollen für dynamischen Content
             for _ in range(2):
-                page.evaluate("window.scrollBy(0, 0)")
+                page.evaluate("window.scrollBy(0, 1080)")
                 time.sleep(3)
 
             # Screenshot speichern
