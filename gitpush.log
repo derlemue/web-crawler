@@ -2000,3 +2000,35 @@ To github.com:derlemue/web-crawler.git
    5b58193..100df82  master -> master
 ✅ Push abgeschlossen: 🔄 Automatisches Update: 2025-03-29 01:00:01
 📤 Pushe Änderungen an master...
+[master df51c8a] 🔄 Automatisches Update: 2025-03-29 01:30:18
+ 30 files changed, 578 insertions(+)
+ create mode 100644 data/logs/scraper_2025-03-29_01-00-01.log
+ create mode 100644 data/logs/scraper_2025-03-29_01-20-01.log
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_2025-03-29_01-01-10.png"
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_2025-03-29_01-07-28.png"
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_2025-03-29_01-28-08.png"
+ create mode 100644 data/screenshots/AfD_Miesbach_2025-03-29_01-05-33.png
+ create mode 100644 data/screenshots/AfD_Miesbach_2025-03-29_01-25-55.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_2025-03-29_01-00-42.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_2025-03-29_01-20-44.png
+ create mode 100644 data/screenshots/Twitter_AfD_2025-03-29_01-04-45.png
+ create mode 100644 data/screenshots/Twitter_AfD_2025-03-29_01-10-59.png
+ create mode 100644 data/screenshots/Twitter_AfD_Bundestag_2025-03-29_01-03-56.png
+ create mode 100644 data/screenshots/Twitter_Alice_Weidel_2025-03-29_01-06-57.png
+ create mode 100644 data/screenshots/Twitter_Benjamin_Nolte_2025-03-29_01-05-08.png
+ create mode 100644 "data/screenshots/Twitter_Bj\303\266rn_H\303\266cke_2025-03-29_01-07-32.png"
+ create mode 100644 data/screenshots/Twitter_Dirk_Brandes_2025-03-29_01-11-45.png
+ create mode 100644 data/screenshots/Twitter_Franz_Schmid_2025-03-29_01-11-08.png
+ create mode 100644 data/screenshots/Twitter_Gerrit_Huy_2025-03-29_01-04-32.png
+ create mode 100644 data/screenshots/Twitter_Hannes_Gnauck_2025-03-29_01-09-18.png
+ create mode 100644 data/screenshots/Twitter_Ingo_Hahn_2025-03-29_01-06-19.png
+ create mode 100644 data/screenshots/Twitter_Klaus_Esser_2025-03-29_01-12-22.png
+ create mode 100644 data/screenshots/Twitter_Marie-Therese_Kaiser_2025-03-29_01-02-45.png
+ create mode 100644 data/screenshots/Twitter_Politico_Europe_2025-03-29_01-02-09.png
+ create mode 100644 data/screenshots/Twitter_Sven_Kachelmann_2025-03-29_01-09-54.png
+ create mode 100644 data/screenshots/Twitter_Tino_Chrupalla_2025-03-29_01-08-42.png
+ create mode 100644 "data/screenshots/Twitter_Tomasz_Fr\303\266lich_2025-03-29_01-10-32.png"
+To github.com:derlemue/web-crawler.git
+   100df82..df51c8a  master -> master
+✅ Push abgeschlossen: 🔄 Automatisches Update: 2025-03-29 01:30:18
+📤 Pushe Änderungen an master...

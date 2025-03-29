@@ -1,10 +1,7 @@
-[+] Starte Scraper im Container 274a02ad479a (2025-03-29_01-20-01)
+[+] Starte Scraper im Container 274a02ad479a (2025-03-29_01-40-01)
 
 [+] Capturing: AfD Weilheim-Schongau -> https://www.afd-weilheim-schongau.de/
-[~] Versuche Facebook-Popups zu entfernen ...
-[~] Kein Login-Overlay erkannt
-[~] Popup-Handling abgeschlossen.
-[!] Änderung erkannt (53.50 >= 20)
+[❌] Fehler bei https://www.afd-weilheim-schongau.de/: Timeout 15000ms exceeded.
 [+] Capturing: AfD Weilheim-Schongau News -> https://www.afd-weilheim-schongau.de/neu/
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
@@ -114,8 +111,7 @@
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
 [~] Popup-Handling abgeschlossen.
-[i] Unterschied zu gering (0.00 < 20) – kein Alert.
-[i] Keine Änderung bei Twitter Gerrit Huy, Screenshot verworfen.
+[!] Änderung erkannt (26.61 >= 20)
 [+] Capturing: Twitter Benjamin Nolte -> https://nitter.space/BenjaminNolte3
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
