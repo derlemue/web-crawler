@@ -1,10 +1,7 @@
-[+] Starte Scraper im Container c943f79ac236 (2025-03-29_02-20-01)
+[+] Starte Scraper im Container c943f79ac236 (2025-03-29_02-40-01)
 
 [+] Capturing: AfD Weilheim-Schongau -> https://www.afd-weilheim-schongau.de/
-[~] Versuche Facebook-Popups zu entfernen ...
-[~] Kein Login-Overlay erkannt
-[~] Popup-Handling abgeschlossen.
-[!] Änderung erkannt (53.51 >= 30)
+[❌] Fehler bei https://www.afd-weilheim-schongau.de/: Timeout 15000ms exceeded.
 [+] Capturing: AfD Weilheim-Schongau News -> https://www.afd-weilheim-schongau.de/neu/
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
@@ -51,7 +48,7 @@
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
 [~] Popup-Handling abgeschlossen.
-[!] Änderung erkannt (66.50 >= 30)
+[!] Änderung erkannt (70.62 >= 30)
 [+] Capturing: AfD Miesbach News -> https://www.afd-miesbach.de/corona-fakten-medien-2/
 [❌] Fehler bei https://www.afd-miesbach.de/corona-fakten-medien-2/: Timeout 15000ms exceeded.
 [+] Capturing: AfD Ulrich Singer -> https://singer-afd.de/
@@ -87,7 +84,7 @@
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
 [~] Popup-Handling abgeschlossen.
-[i] Unterschied zu gering (0.01 < 30) – kein Alert.
+[i] Unterschied zu gering (16.72 < 30) – kein Alert.
 [i] Keine Änderung bei Twitter Politico Europe, Screenshot verworfen.
 [+] Capturing: Twitter Marie-Therese Kaiser -> https://nitter.space/hallofraukaiser
 [~] Versuche Facebook-Popups zu entfernen ...
