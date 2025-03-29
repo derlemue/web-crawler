@@ -35,7 +35,7 @@ def capture_page(name: str, url: str):
     print(f"[+] Capturing: {name} -> {url}")
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        context = browser.new_context(viewport={"width": 1920, "height": 6480})
+        context = browser.new_context(viewport={"width": 1920, "height": 4320})
         page = context.new_page()
 
         try:
@@ -61,7 +61,7 @@ def capture_page(name: str, url: str):
             timestamp = datetime.utcnow().strftime("%Y-%m-%d_%H-%M-%S")
             safe_name = safe_filename(name)
             screenshot_path = DATA_DIR / f"{safe_name}_{timestamp}.png"
-            page.screenshot(path=screenshot_path, clip={"x": 0, "y": 0, "width": 1920, "height": 6480})
+            page.screenshot(path=screenshot_path, clip={"x": 0, "y": 0, "width": 1920, "height": 4320})
 
             # Vergleich mit vorherigem Screenshot
             last_path = find_previous_screenshot(name)
