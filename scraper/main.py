@@ -66,7 +66,7 @@ def capture_page(name: str, url: str):
             # Vergleich mit vorherigem Screenshot
             last_path = find_previous_screenshot(name)
             changed = True
-            threshold = 20  # Sensitivität (je höher, desto unempfindlicher)
+            threshold = 30  # Sensitivität (je höher, desto unempfindlicher)
             if last_path and last_path.exists():
                 try:
                     img1 = Image.open(screenshot_path)
