@@ -18,6 +18,7 @@ watchlist_urls = {
     "Twitter Pauline Pezold": "https://nitter.space/PaulinePezold",
     "Twitter Politico Europe": "https://nitter.space/POLITICOEurope",
     "Twitter Marie-Therese Kaiser": "https://nitter.space/hallofraukaiser",
+    "Twitter NIUS": "https://nitter.space/niusde_",
     "Twitter AfD": "https://nitter.space/AfD",
     "Twitter AfD Bundestag": "https://nitter.space/AfDimBundestag",
     "Twitter Gerrit Huy": "https://nitter.space/GerritHuy",
