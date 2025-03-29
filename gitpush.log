@@ -1987,3 +1987,16 @@ To github.com:derlemue/web-crawler.git
    dc87c2f..3538385  master -> master
 ✅ Push abgeschlossen: 🔄 Automatisches Update: 2025-03-29 00:00:01
 📤 Pushe Änderungen an master...
+[master 100df82] 🔄 Automatisches Update: 2025-03-29 01:00:01
+ 9 files changed, 5 insertions(+)
+ create mode 100644 data/logs/scraper_2025-03-29_00-52-34.log
+ create mode 100644 data/logs/scraper_2025-03-29_00-53-59.log
+ create mode 100644 "data/screenshots/AfD_Bad_T\303\266lz_2025-03-29_00-59-44.png"
+ create mode 100644 data/screenshots/AfD_Miesbach_2025-03-29_00-57-48.png
+ create mode 100644 data/screenshots/AfD_Miesbach_2025-03-29_00-59-26.png
+ create mode 100644 data/screenshots/AfD_Starnberg_2025-03-29_00-51-23.png
+ create mode 100644 data/screenshots/AfD_Weilheim-Schongau_2025-03-29_00-54-38.png
+To github.com:derlemue/web-crawler.git
+   5b58193..100df82  master -> master
+✅ Push abgeschlossen: 🔄 Automatisches Update: 2025-03-29 01:00:01
+📤 Pushe Änderungen an master...

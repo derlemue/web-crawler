@@ -1,4 +1,4 @@
-[+] Starte Scraper im Container 274a02ad479a (2025-03-29_00-53-59)
+[+] Starte Scraper im Container 274a02ad479a (2025-03-29_01-00-01)
 
 [+] Capturing: AfD Weilheim-Schongau -> https://www.afd-weilheim-schongau.de/
 [~] Versuche Facebook-Popups zu entfernen ...
@@ -53,7 +53,11 @@
 [~] Popup-Handling abgeschlossen.
 [!] Änderung erkannt (70.62 >= 20)
 [+] Capturing: AfD Miesbach News -> https://www.afd-miesbach.de/corona-fakten-medien-2/
-[❌] Fehler bei https://www.afd-miesbach.de/corona-fakten-medien-2/: Timeout 15000ms exceeded.
+[~] Versuche Facebook-Popups zu entfernen ...
+[~] Kein Login-Overlay erkannt
+[~] Popup-Handling abgeschlossen.
+[i] Unterschied zu gering (0.00 < 20) – kein Alert.
+[i] Keine Änderung bei AfD Miesbach News, Screenshot verworfen.
 [+] Capturing: AfD Ulrich Singer -> https://singer-afd.de/
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
@@ -93,7 +97,7 @@
 [~] Versuche Facebook-Popups zu entfernen ...
 [~] Kein Login-Overlay erkannt
 [~] Popup-Handling abgeschlossen.
-[i] Unterschied zu gering (0.00 < 20) – kein Alert.
+[i] Unterschied zu gering (0.01 < 20) – kein Alert.
 [i] Keine Änderung bei Twitter Marie-Therese Kaiser, Screenshot verworfen.
 [+] Capturing: Twitter AfD -> https://nitter.space/AfD
 [~] Versuche Facebook-Popups zu entfernen ...
